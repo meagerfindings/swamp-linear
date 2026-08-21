@@ -1,6 +1,6 @@
 # swamp-linear
 
-[swamp](https://swamp.club) extension `@mgreten/linear` — Linear project management integration with issue CRUD, viewer auto-assignment, and label management.
+[swamp](https://swamp.club) extension `@mgreten/linear` — Linear project management integration with verified issue CRUD, viewer auto-assignment, and label management.
 
 Extension documentation: [extensions/models/README.md](extensions/models/README.md)
 
